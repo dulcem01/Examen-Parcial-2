@@ -1,0 +1,70 @@
+body{
+	font-family: Catamaran;
+}
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#30363d;
+	--color-footer:#898989;
+}
+header{
+	background-color: #fff;
+}
+footer{
+	background-color: var(--fondo-footer);
+	color: var(--color-footer);
+	padding: 20px 0;
+	text-align: center;
+	font-size: 13px;
+}
+#hero slides{
+	padding:20px;
+}
+
+h1{
+	font-size: 80px;
+	font-wight: bold;
+}
+
+.btn-light{
+	border-radius: 50px;
+}
+
+#intro{
+	padding: 20px;
+  align-content: center;
+}
+
+#services{
+	padding: 20px;
+  align-content: center;
+}
+
+#cta{
+	align-content: center;
+	text-align: center;
+}
+
+.container-xxl h1{
+	align: center;
+	position: absolute;
+	color: white;
+	top: 210%;
+	left: 5%;
+}
+
+.container-xxl p{
+	align: center;
+	position: absolute;
+	color: white;
+	top: 230%;
+	left: 30%;
+}
+
+.container-xxl btn{
+	top:210%;
+}
+#clients{
+	padding: 20px;
+  align-content: center;
+}
